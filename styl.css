@@ -1,0 +1,78 @@
+body{
+    background-color: cadetblue;
+    color: brown;
+
+}
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: lightgrey;
+    border-radius: 20px;
+
+}
+.heading{
+    font-family: 'Lobster', cursive;
+}
+#title{
+    font-size: 90px;
+    text-align: center;
+
+}
+#span1{
+    color: black;
+}
+#image{
+    width: 400px;
+    border-radius: 40px;
+
+}
+
+#img-div{
+    text-align: center;
+}
+
+#date{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#info{
+    width: 80%;
+    margin:20px auto ;
+    text-align:justify ;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.meral{
+    font-family: 'Lobster', cursive;
+    color: rgb(7, 6, 5);
+    margin-left: 10%;
+}
+
+#footer{
+    text-align: center;
+    font-size: 25px;
+    padding: 30px
+}
+#link{
+    text-decoration: none;
+    color: brown;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+#link:hover{
+    color:brown;
+    background-color: cadetblue;
+}
+ul{
+    width: 80%;
+    color: brown;
+    margin-left: 10%;
+}
+li{
+    font-size:20px ;
+    line-height: 30px;
+}
